@@ -33,6 +33,7 @@ This analysis is based on a real-world dataset from a delivery company containin
     
 ##  Dashboard Snapshot
 
+![image alrt](https://github.com/DILIPdk1101/Delivery-Operations-Performance-Dashboard/blob/a1b4ac79f7f04fabff4684bd7a74004bfbd4be9e/delivery%20project.png)
 
 ## ✅ Insights & Outcomes
 
