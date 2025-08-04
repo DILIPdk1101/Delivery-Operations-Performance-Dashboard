@@ -30,7 +30,8 @@ This analysis is based on a real-world dataset from a delivery company containin
   - Delay patterns by hour of day and day of week
   - Route type analysis (FTL vs Carting)
   - Cut-off compliance trends
-
+    
+##  Dashboard Snapshot
 
 
 ## ✅ Insights & Outcomes
